@@ -45,7 +45,7 @@ $ go run main.go
 ```shell
 bin/        # Local binaries
 build/      # Build package providing info about the current build
-cmd/        # Command-line app code
+cmd/        # Command-line app code 40100332
 docs/       # Documentation
 examples/   # Some code examples
 lib/        # Libraries 
